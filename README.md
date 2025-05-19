@@ -37,6 +37,7 @@ Después de modularizar el proyecto en el Desafío 6, el equipo identificó la n
 2. Instalar Git, Ansible, Java y Jenkins.
 
   - Git
+    
 ![image](https://github.com/user-attachments/assets/e85986fe-69a4-4f3f-b460-349bc2397cd1)
 
   - Ansible
