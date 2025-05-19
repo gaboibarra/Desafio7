@@ -118,6 +118,10 @@ Después de modularizar el proyecto en el Desafío 6, el equipo identificó la n
 
 ![image](https://github.com/user-attachments/assets/e07b3baa-7f14-4714-b0f5-518319f36e31)
 
+- Webhook creado
+
+![image](https://github.com/user-attachments/assets/27260c3e-257b-4506-b073-dce7a2b13ed6)
+
    - Probar los despliegues en cada entorno.
 
 
