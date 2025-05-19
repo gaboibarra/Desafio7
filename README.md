@@ -81,15 +81,12 @@ Después de modularizar el proyecto en el Desafío 6, el equipo identificó la n
 ![image](https://github.com/user-attachments/assets/79b42268-dde1-445f-8ee9-6eda6506618c)
 
   - DEV
-    
   ![image](https://github.com/user-attachments/assets/71f8fe78-3b8e-4992-872b-c17ba2f8b23a)
 
   - Staging
-    
   ![image](https://github.com/user-attachments/assets/9b18438d-5c72-4a47-9449-b82649079b1b)
 
   - Main
-    
   ![image](https://github.com/user-attachments/assets/eae3e99b-9038-404f-a2ee-cad8e2be5352)
 
 6. Configurar el pipeline en Jenkins para cada rama:
