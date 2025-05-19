@@ -122,8 +122,36 @@ Después de modularizar el proyecto en el Desafío 6, el equipo identificó la n
 
 ![image](https://github.com/user-attachments/assets/27260c3e-257b-4506-b073-dce7a2b13ed6)
 
-   - Probar los despliegues en cada entorno.
+- Probar los despliegues en cada entorno.
+- Probar configuración 
+- Cambio en la rama 
 
+![image](https://github.com/user-attachments/assets/7e60046f-7597-4f7e-984e-2dbc11d56abd)
 
+- Consola Jenkins Despliegue Exitoso DEV
 
+![image](https://github.com/user-attachments/assets/9d13dc8a-98ff-4d98-bc4f-8b18b206cb72)
+
+- Consola Jenkins Despliegue Exitoso Staging
+
+![image](https://github.com/user-attachments/assets/febb6dc5-be8e-486f-995f-8df3ac1b48e6)
+
+- Consola Jenkins Despliegue Exitoso Main
+
+![image](https://github.com/user-attachments/assets/7530e6d0-95e4-4112-baf2-e8eb9aec3177)
+
+![image](https://github.com/user-attachments/assets/ed0afe8a-ddaf-47d9-a209-026e52aabfc5)
+
+## 📂 Organización del Proyecto
+```
+pipelines/
+├── dev/
+├── staging/
+└── main/
+```
+## 📎 Recursos
+
+- [Repositorio del Proyecto - Clase 35](https://github.com/edgaregonzalez/devops-bootcamp/tree/main/Clase35)
+- [Repositorio del Proyecto - Clase 36](https://github.com/edgaregonzalez/devops-bootcamp/tree/main/Clase36/actividad)
+- [Documentación de Jenkins Multibranch Pipeline](https://www.jenkins.io/doc/tutorials/build-a-multibranch-pipeline-project/)
 
